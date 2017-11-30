@@ -66,17 +66,17 @@ Penguasaan _tools_ berikut sangat disarankan:
 
 Adapun bahan kajian atau pokok bahasannya adalah:
 
-I. Motivasi dan komponen machine learning, serta taksonomi learning pada machine learning.
-II. Supervised learning:
-   1. Regression
-   2. Support Vector Machine
-   3. Artificial Neural Networks: Multi-Layer Perceptron dan Probabilistic Neural Networks
-   4. Naive Bayes
-III. Unsupervised learning:
-   1. Partitional-based clustering
-   2. Hierarchical clustering
-   3. Self-Organizing (Kohonen’s) Maps
-   IV. Reinforcement learning
+1. Motivasi dan komponen machine learning, serta taksonomi learning pada machine learning.
+2. Supervised learning:
+   a. Regression
+   b. Support Vector Machine
+   c. Artificial Neural Networks: Multi-Layer Perceptron dan Probabilistic Neural Networks
+   d. Naive Bayes
+3. Unsupervised learning:
+   a. Partitional-based clustering
+   b. Hierarchical clustering
+   c. Self-Organizing (Kohonen’s) Maps
+   d. Reinforcement learning
 
 Kajian akan didemonstrasikan menggunakan contoh _live-code_ maupun slides yang tersedia di (TODO). Latihan lebih lanjut akan dilakukan melalui tugas yang diberikan.
 
