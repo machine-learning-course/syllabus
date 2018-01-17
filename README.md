@@ -402,6 +402,8 @@ Anda dapat memilih _tools_/bahasa pemrograman yang paling cocok untuk masalah ya
 
 Mengikuti kompetisi dapat mengasah kemampuan Anda dan meningkatkan masa depan karir Anda, di samping _rewards_ yang menarik tentunya.
 
+* [Kaggle Competitions](https://www.kaggle.com/competitions)
+* [CodeChef](https://www.codechef.com/)
 * [Microsoft Imagine Cup](https://imagine.microsoft.com/en-us/Country/Details/ID)
 * [Google Summer of Code](https://summerofcode.withgoogle.com/)
 
