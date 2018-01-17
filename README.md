@@ -413,7 +413,7 @@ Mengikuti kompetisi dapat mengasah kemampuan Anda dan meningkatkan masa depan ka
 * Tugas 2 (Mandiri) - 30%
 * Tugas 3 (Mandiri) - 20%
 * Tugas 4 (Mandiri) - 20%
-* Tugas 0 - bonus maksimal +20 points untuk memperbaiki nilai Tugas 1 & Tugas 2
+* Tugas 0 Series - bonus maksimal +20 points untuk memperbaiki nilai Tugas 1 & Tugas 2
 
 ## Distribusi Nilai
 
