@@ -253,15 +253,6 @@ Naïve Bayes:
 
 * TODO
 
-### Ujian Tengah Semester (UTS)
-
-Materi ujian:
-
-1. Regression
-2. Support Vector Machine
-3. Artificial Neural Networks
-4. Naïve Bayes
-
 ### Minggu ke-8
 
 1. Konsep clustering
@@ -332,22 +323,6 @@ Ensemble Methods (Metode-metode Gabungan):
 - Voting
 - Boosting
 - Random Ensembles (Random Forest)
-
-### Ujian Akhir Semester (UAS)
-
-Materi ujian:
-
-1. Clustering
-2. Self-Organizing (Kohonen’s) Maps
-3. Reinforcement Learning:
-   - Markov Decision Processes
-   - Bellman Equations
-   - Value Iteration and Policy Iteration
-   - Q-Learning
-4. Ensemble Methods (Metode-metode Gabungan):
-   - Voting
-   - Boosting
-   - Random Ensembles (Random Forest)
 
 ## Pustaka
 
