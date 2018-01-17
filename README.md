@@ -8,7 +8,16 @@ permalink: /
 ***Bila Anda guru/dosen atau tertarik dengan desain mata kuliah ini, silakan lihat dokumen [meta](https://machine-learning-course.github.io/syllabus/meta).***
 
 * **Mata Kuliah:** [CSH3L3, Telkom University](http://bif.telkomuniversity.ac.id/panduan-akademik/buku-kurikulum-2016/struktur-kurikulum-2016/)
-* **Dosen:** M. Syahrul Mubarok, Suyanto, Hendy Irawan <[hendy@hendyirawan.com](mailto:hendy@hendyirawan.com)>
+* **Tim Dosen:** 
+   * Suyanto
+   * M. Syahrul Mubarok
+   * Said Al Faraby
+   * Ade Romadhony
+   * Anditya Arifianto
+   * Bernadus Anggo Seno Aji
+   * Ema Rachmawati
+   * Kurniawan Nur
+   * Hendy Irawan <[hendy@hendyirawan.com](mailto:hendy@hendyirawan.com)>
 * **SKS:** 3 SKS kuliah
    * 14 minggu, masing-masing:
       * Kuliah: 1 x 50 menit
@@ -16,7 +25,7 @@ permalink: /
       * Belajar mandiri: 1 x 60 menit
 * **Butuh bantuan?**
    * Lihat [issues](https://github.com/machine-learning-course/syllabus/issues) yang ada atau buat _issue_ baru
-   * Email [hendy@hendyirawan.com](mailto:hendy@hendyirawan.com) untuk diskusi/konsultasi atau bertemu langsung
+   * Konsultasikan dengan dosen di grup LINE/WhatsApp/Telegram untuk kelas Anda
 
 ## Deskripsi Mata Kuliah
 
@@ -41,10 +50,9 @@ Mata kuliah syarat:
 
 1. Dasar Algoritma dan Pemrograman
 2. Desain dan Analisis Algoritma
-3. Teori Probabilitas
-4. Statistika
-5. Matriks Ruang dan Vektor / Aljabar Linier
-6. Kecerdasan Buatan (_co-requisite_)
+3. Teori Probabilitas dan Statistika
+4. Matriks Ruang dan Vektor / Aljabar Linier
+5. Kecerdasan Buatan (_co-requisite_)
 
 Pemahaman:
 
@@ -76,9 +84,10 @@ Adapun bahan kajian atau pokok bahasannya adalah:
    a. Partitional-based clustering
    b. Hierarchical clustering
    c. Self-Organizing (Kohonen’s) Maps
-   d. Reinforcement learning
+4. Reinforcement learning
+5. Ensemble methods
 
-Kajian akan didemonstrasikan menggunakan contoh _live-code_ maupun slides yang tersedia di (TODO). Latihan lebih lanjut akan dilakukan melalui tugas yang diberikan.
+Kajian akan didemonstrasikan menggunakan contoh _live-code_ maupun slides yang tersedia di bawah. Latihan lebih lanjut akan dilakukan melalui tugas yang diberikan.
 
 ## Tugas
 
@@ -91,34 +100,28 @@ Bila Anda menggunakan GitHub Desktop, panduan umum berikut dapat membantu Anda:
 * <https://guides.github.com/activities/forking/>
 * <https://help.github.com/desktop/guides/contributing/>
 
-Disarankan untuk menyalakan `Edit`->`Automatically Sync after Committing`. Langkah-langkahnya sebagai berikut:
+Disarankan untuk menyalakan `Edit`->`Automatically Sync after Committing`.
 
-1. Lakukan _Fork_ pada _repository_ tugas yang Anda inginkan (daftar _repository_ dapat dilihat di [github.com/struktur-data](https://github.com/struktur-data)).
+Langkah-langkah pengerjaan tugas sebagai berikut:
+
+1. Buka pranala tugas di Kaggle InClass dan/atau GitHub Classroom yang diberikan oleh dosen, Anda akan mendapatkan _repository_ khusus bagi Anda atau tim Anda untuk mengerjakan tugas.
 1. _Clone repository_ tersebut ke komputer Anda.
-1. Buka file utama (misal `*.py`, `*.ipynb`) menggunakan IDE favorit Anda atau Jupyter Notebook.
+1. Edit/Buat file utama, misal `*.ipynb` atau `*.py` menggunakan [Jupyter Notebook](http://jupyter.org) atau [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/learners/).
 1. Ubah program untuk menyelesaikan solusi Anda.
 1. Jalankan program maupun gunakan fungsi _debugging_. Ulangi hingga sesuai harapan Anda.
 1. Pastikan semua kode Anda sudah di- _commit_.
 1. _Push/sync_ ke GitHub.
-1. [Buat _pull request_](https://help.github.com/articles/creating-a-pull-request/) pada _repository_ induk. Setiap tugas memiliki jadwal _deadline_ yang sudah ditentukan.
-1. Anda tetap dapat mengirim perbaikan dan penyempurnaan sampai waktu pengirim tugas ditutup - silakan tambahkan komentar pada _pull request_ untuk memberitahu bahwa Anda telah memperbaruinya.
-
-Saat _pull request_ dibuat, Anda akan menerima pesan bahwa "the Travis CI build is in progress" – ini berarti solusi Anda sedang diperiksa secara otomatis untuk kesalahan sintaks/kompilasi. Bila "build" gagal (menampilkan icon "X" merah), klik pranala "details" dan _scroll_ ke bagian bawah untuk melihat apa saja kesalahannya. Sesuai dengan [Ketentuan](#ketentuan) di bawah, silakan memperbaiki kesalahan dan kirimkan perubahan Anda.
-
-Tanggapan akan diberikan pada _pull request_ Anda, jadi silakan ya membalas dengan uneg-uneg dan pertanyaan Anda! Anda dipersilakan untuk mengirimkan _pull request_ lebih awal sebagai "work-in-progress" bila Anda merasa buntu dan ingin menanyakan suatu hal. Perhatikan bahwa solusi Anda juga akan dapat diakses publik di alamat `https://USERNAME.github.io/TUGAS`.
+1. Setiap tugas memiliki jadwal _deadline_ yang sudah ditentukan. Anda tetap dapat mengirim perbaikan dan penyempurnaan sampai waktu pengirim tugas ditutup. Anda tetap dapat melakukan _push_ setelah _deadline_, namun penilaian utama diberikan pada versi yang Anda kirimkan sebelum _deadline_.
 
 #### Versi
 
-Untuk tugas dengan beberapa Versi (`V1`, `V2`, dll.) yang dicantumkan dalam README: Versi tersebut dapat dijadikan panduan bagaimana mengerjakan tugas-tugas tersebut dalam langkah-langkah kecil. Pastikan Anda telah mencapai Versi tertinggi pada tanggal _deadline_. Lihat juga: [Bonus](#bonus).
+Untuk tugas dengan beberapa Versi (`V1`, `V2`, dll.) yang dicantumkan dalam deskripsi tugas: Versi tersebut dapat dijadikan panduan bagaimana mengerjakan tugas-tugas tersebut dalam langkah-langkah kecil. Pastikan Anda telah mencapai Versi tertinggi pada tanggal _deadline_. Lihat juga: [Bonus](#bonus).
 
 ### Ketentuan
 
 Ketentuan berikut juga berlaku di dunia nyata, lho.
 
-* [Travis CI](https://docs.travis-ci.com/) _build_ harus berhasil, antara lain:
-    * File kode dapat dikompilasi dengan baik.
-    * Program dapat dieksekusi.
-* Terapkan "good programming style" yang Anda pelajari di kelas
+* Terapkan _good programming style_ yang Anda pelajari di kelas
     * Pastikan program mudah dibaca.
         * ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
 * Setiap kode yang Anda ambil dari sumber lain harus Anda cantumkan atribusi, lihat: [Plagiarisme](#plagiarisme).
@@ -129,7 +132,7 @@ Nilai plus akan diberikan untuk:
 
 * Tes otomatis (misalnya menggunakan [unittest](https://docs.python.org/3/library/unittest.html))
 * Kreativitas (syarat utama tugas tetap harus terpenuhi)
-* Tugas tertentu mencantumkan bagian `BONUS` di file README.
+* Tugas tertentu mencantumkan bagian `BONUS`.
 
 ## Kerangka Mata Kuliah
 
@@ -147,6 +150,12 @@ Nilai plus akan diberikan untuk:
         * Apa yang Anda "lakukan"?
         * Apa yang ingin Anda raih dalam mata kuliah ini?
         * Hal apa dalam pemrograman/algoritma (atau teknologi apa pun) yang Anda masih khawatir atau merasa kurang?
+1. Pendahuluan Machine Learning
+   - Bagaimana mesin hitung (komputer) dapat belajar?
+   - Data sederhana sebagai kasus contoh untuk semua teknik learning
+   - Taksonomi Teknik Learning
+   - Contoh-contoh pemanfaatan/aplikasi berbasis Machine Learning
+   - Keterkaitan dengan bidang-bidang lain
 1. Setup
     * Berapa mahasiswa yang familiar dengan Git/GitHub?
     * Pasang [GitHub Desktop](https://desktop.github.com/)
@@ -154,29 +163,43 @@ Nilai plus akan diberikan untuk:
     * Daftar akun [GitHub](https://github.com/)
 1. GitHub workflow
     * Penjelasan [workflow](#workflow)
-    * Buat _pull request_ di [students repository](https://github.com/struktur-data/students)
-    * Demonstrasi Travis CI
-1. Pendahuluan Machine Learning
-   - Bagaimana mesin hitung (komputer) dapat belajar?
-   - Data sederhana sebagai kasus contoh untuk semua teknik learning
-   - Taksonomi Teknik Learning
-   - Contoh-contoh pemanfaatan/aplikasi berbasis Machine Learning
-   - Keterkaitan dengan bidang-bidang lain
+1. Kaggle
 1. Penjelasan [ketentuan](#ketentuan)
 
-#### Tugas
+#### Tugas 0A: Kelas IF-39-02 dan IF-41-GAB02
 
-1. Bergabung dengan grup WhatsApp. Pranala akan diberikan saat sesi kuliah.
+1. Bergabung dengan grup LINE/WhatsApp. Pranala akan diberikan saat sesi kuliah.
 2. [Lengkapi profil GitHub Anda.](https://github.com/settings/profile)
 3. Mendaftar paket [GitHub Student Developer Pack](https://education.github.com/pack)
-5. TODO: Kerjakan tugas pendahuluan. Batas akhir pengumpulan: sehari sebelum sesi kuliah minggu ke-2.
+4. Membuat akun [Kaggle](https://www.kaggle.com)
+5. Lengkapi profil Kaggle Anda
+6. [**TelU Legends Heroes**](https://www.kaggle.com/c/heroes)
+
+#### Referensi
+
+* Slides: [Jyrki Kivinen. Introduction to Machine Learning.](https://www.dropbox.com/s/8mtjm5dz8u9rfkn/01%20IntroductionToMachineLearning-Jyrki.pdf?dl=0)
+* [Anaconda for Windows/macOS/Linux](https://www.anaconda.com/download/) (gunakan varian Python 3.6)
+* [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/learners/)
 
 ### Minggu ke-2
 
-Regression:
+1. Pembahasan Tugas 0A
+1. Data
 
-- Linear: Univariate dan Multivariate
-- Non-linear: Univariate dan Multivariate
+   * Types of data
+   * Quality of data
+   * Preprocessing
+   * Similarity and dissimilarity
+
+2. Regression
+
+   * Linear: Univariate dan Multivariate
+   * Non-linear: Univariate dan Multivariate
+
+#### Referensi
+
+* Slides: [Jyrki Kivinen. Introduction to Machine Learning.](https://www.dropbox.com/s/8mtjm5dz8u9rfkn/01%20IntroductionToMachineLearning-Jyrki.pdf?dl=0)
+* Slides [Regression](https://www.dropbox.com/s/m21tjjqw40mqedi/02%20Regression.pdf?dl=0)
 
 #### Tugas
 
@@ -249,7 +272,7 @@ Materi ujian:
    - Single-link
    - Complete-link
    - Group average
-   - Centroid-based.
+   - Centroid-based
 
 #### Tugas
 
@@ -313,10 +336,6 @@ Ensemble Methods (Metode-metode Gabungan):
 - Boosting
 - Random Ensembles (Random Forest)
 
-#### Tugas
-
-* TODO
-
 ### Ujian Akhir Semester (UAS)
 
 Materi ujian:
@@ -333,14 +352,6 @@ Materi ujian:
    - Boosting
    - Random Ensembles (Random Forest)
 
-## Tips Tugas Kelompok
-
-* Kelompok maksimal dua orang
-* Tentukan editor/IDE dan lingkungan yang nyaman bagi kalian
-* Anggota dengan pengalaman lebih sedikit sebaiknya mendapat porsi pengerjaan lebih intensif
-* Bergantian dalam mengerjakan
-* Sering-seringlah menyimpan kode dan melakukan _commit & push/sync_
-
 ## Pustaka
 
 ### Pustaka Utama
@@ -348,8 +359,7 @@ Materi ujian:
 1. Peter Flach: Machine learning: The Art and Science of Algorithms that Make Sense of Data. Cambridge University Press 2012
 2. Tan, Steinbach, Kumar. Introduction to Data Mining. Addison-Wesley. 2006.
 3. Slide perkuliahan: Introduction to Machine Learning, University of Helsinki.
-4. Suyanto, Data Mining, INFORMATIKA: Bandung, 2017.
-5. Mohamad Syahrul Mubarok dan Suyanto, Pengantar Machine Learning, INFORMATIKA: Bandung, 2018.
+4. Suyanto, Data Mining untuk Klasifikasi dan Klasterisasi Data, INFORMATIKA: Bandung, 2017.
 
 ###	Pustaka Pendukung
 
@@ -367,9 +377,11 @@ Kapan pun Anda membutuhkannya, silakan manfaatkan referensi berikut...
 
 #### Tools Utama
 
-Anda dapat memilih tools/bahasa pemrograman yang paling familiar bagi Anda:
+Anda dapat memilih _tools_/bahasa pemrograman yang paling cocok untuk masalah yang dihadapi:
 
-* Python. Installer: [Anaconda](https://anaconda.org/).
+* Python 3.x (**disarankan**). Installer: [Anaconda with Python 3.x](https://www.anaconda.com/download/).
+   * [Jupyter Notebook](http://jupyter.org/) (termasuk dalam instalasi Anaconda)
+   * [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/learners/)
 * Java
    * [Java Development Kit (JDK)](www.oracle.com/technetwork/java/javase/downloads/index.html)
    * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
@@ -412,14 +424,22 @@ Anda dapat memilih tools/bahasa pemrograman yang paling familiar bagi Anda:
 * [HackerRank](https://www.hackerrank.com/)
 * [HackerEarth](https://www.hackerearth.com/)
 * [CodeChef](https://www.codechef.com/)
+* [Kaggle](https://www.kaggle.com)
+
+### Kompetisi Bidang Informatika
+
+Mengikuti kompetisi dapat mengasah kemampuan Anda dan meningkatkan masa depan karir Anda, di samping _rewards_ yang menarik tentunya.
+
+* [Microsoft Imagine Cup](https://imagine.microsoft.com/en-us/Country/Details/ID)
+* [Google Summer of Code](https://summerofcode.withgoogle.com/)
 
 ## Pembobotan Nilai
 
-TODO
-
-* UTS – 25%
-* UAS - 25%
-* Tugas - 50%
+* Tugas 1 (Mandiri) - 30%
+* Tugas 2 (Mandiri) - 30%
+* Tugas 3 (Mandiri) - 20%
+* Tugas 4 (Mandiri) - 20%
+* Tugas 0 - bonus maksimal +20 points untuk memperbaiki nilai Tugas 1 & Tugas 2
 
 ## Distribusi Nilai
 
