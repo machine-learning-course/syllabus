@@ -28,6 +28,8 @@ permalink: /
 
 Mata Kuliah Pembelajaran Mesin melatih mahasiswa untuk memahami ide dasar, intuisi, konsep, algoritma dan teknik untuk membuat komputer menjadi lebih cerdas melalui proses _learning from data_. Materi yang disampaikan meliputi _supervised learning_, _unsupervised learning_, _reinforcement learning_, dan _ensemble methods_.
 
+* Unduh [**RPS CSH3L3 Machine Learning**](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html)
+
 ## Capaian Pembelajaran
 
 PLO (Programme Learning Outcomes):
