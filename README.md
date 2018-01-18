@@ -19,7 +19,10 @@ permalink: /
    * Kurniawan Nur
    * Hendy Irawan <[hendy@hendyirawan.com](mailto:hendy@hendyirawan.com)>
 * **SKS:** 3 SKS kuliah
-   * 14 minggu, masing-masing: Kuliah 3 x 50 menit
+   * 14 minggu, masing-masing:
+      * Kuliah: 3 x 50 menit
+      * Penugasan terstruktur: 3 x 60 menit
+      * Belajar mandiri: 3 x 60 menit
 * **Butuh bantuan?**
    * Lihat [issues](https://github.com/machine-learning-course/syllabus/issues) yang ada atau buat _issue_ baru
    * Konsultasikan dengan dosen di grup LINE/WhatsApp/Telegram untuk kelas Anda
