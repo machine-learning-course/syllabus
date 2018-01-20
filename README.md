@@ -359,6 +359,7 @@ Anda dapat memilih _tools_/bahasa pemrograman yang paling cocok untuk masalah ya
 * Python 3.x (**disarankan**). Installer: [Anaconda with Python 3.x](https://www.anaconda.com/download/).
    * [Jupyter Notebook](http://jupyter.org/) (termasuk dalam instalasi Anaconda)
    * [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/learners/)
+   * Library yang penting: [pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html), [numpy](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
 * Java
    * [Java Development Kit (JDK)](www.oracle.com/technetwork/java/javase/downloads/index.html)
    * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
