@@ -387,6 +387,18 @@ Anda dapat memilih _tools_/bahasa pemrograman yang paling cocok untuk masalah ya
 * unit testing: [Python unittest](https://docs.python.org/3/library/unittest.html)
 * berbagi kode: [gist.github.com](https://gist.github.com/)
 * tanya jawab: [Stack Overflow](http://stackoverflow.com/)
+* Visualisasi:
+
+   * [TensorFlow Playground](https://playground.tensorflow.org/)
+   * [VisuAlgo](https://visualgo.net/en) (struktur data)
+
+* Machine learning libraries
+
+   **Perhatian:** Anda tidak diperkenankan menggunakan library-library tersebut saat mengerjakan tugas. Namun, Anda dapat membandingkan hasil keluaran program yang Anda buat dengan hasil library tersebut, sehingga membuat Anda lebih menguasai machine learning. Bila ingin berkarir sebagai Data Scientist, menguasai setidaknya satu library machine learning menjadi syarat utama.
+
+   * [Gluon](https://mxnet.incubator.apache.org/gluon/index.html) - Engine: [MXNet](https://mxnet.incubator.apache.org/)
+   * [Keras](https://keras.io) - Engine: [TensorFlow](https://www.tensorflow.org) / [Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/cognitive-toolkit/)
+   * [scikit-learn](http://scikit-learn.org/)
 
 #### GitHub
 
