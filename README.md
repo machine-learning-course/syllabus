@@ -201,6 +201,8 @@ Nilai plus akan diberikan untuk:
 
 * Slides: [Jyrki Kivinen. Introduction to Machine Learning.](https://www.dropbox.com/s/8mtjm5dz8u9rfkn/01%20IntroductionToMachineLearning-Jyrki.pdf?dl=0)
 * Slides [Regression](https://www.dropbox.com/s/m21tjjqw40mqedi/02%20Regression.pdf?dl=0)
+* [Satu Lagi Tulisan tentang Regresi](https://tentangdata.wordpress.com/2015/05/25/satu-lagi-tulisan-tentang-regresi/)
+* [Simple Linear Regression - Bagian 1](https://tentangdata.wordpress.com/2015/06/07/simple-linear-regression-bagian-1/)
 
 #### Tugas
 
