@@ -24,7 +24,7 @@ permalink: /
       * Penugasan terstruktur: 3 x 60 menit
       * Belajar mandiri: 3 x 60 menit
 * **Butuh bantuan?**
-   * Cek [FAQ & Troubleshooting](#faq-troubleshooting)
+   * Cek [FAQ & Troubleshooting](#faq--troubleshooting)
 
 ## Deskripsi Mata Kuliah
 
