@@ -24,8 +24,7 @@ permalink: /
       * Penugasan terstruktur: 3 x 60 menit
       * Belajar mandiri: 3 x 60 menit
 * **Butuh bantuan?**
-   * Lihat [issues](https://github.com/machine-learning-course/syllabus/issues) yang ada atau buat _issue_ baru
-   * Konsultasikan dengan dosen di grup LINE/WhatsApp/Telegram untuk kelas Anda
+   * Cek [FAQ & Troubleshooting](#faq-troubleshooting)
 
 ## Deskripsi Mata Kuliah
 
@@ -359,7 +358,7 @@ Anda dapat memilih _tools_/bahasa pemrograman yang paling cocok untuk masalah ya
 * Python 3.x (**disarankan**). Installer: [Anaconda with Python 3.x](https://www.anaconda.com/download/).
    * [Jupyter Notebook](http://jupyter.org/) (termasuk dalam instalasi Anaconda)
    * [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/learners/)
-   * Library yang penting: [pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html), [numpy](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
+   * Library yang penting: [pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html), [numpy](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html), [matplotlib](https://matplotlib.org/tutorials/introductory/pyplot.html)
 * Java
    * [Java Development Kit (JDK)](www.oracle.com/technetwork/java/javase/downloads/index.html)
    * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
@@ -438,6 +437,62 @@ Mengikuti kompetisi dapat mengasah kemampuan Anda dan meningkatkan masa depan ka
 Bagi yang melakukan kecurangan/plagiarism nilainya akan diturunkan sesuai dengan tingkat plagiarismenya.
 
 Dimohon menghargai ketentuan penggunaan dan/atau lisensi dari kode apa pun yang Anda temukan, dan apabila Anda mengimplementasikan atau menduplikasi sebuah algoritma atau kode dari sumber lain, cantumkan kredit/atribusi ke sumber berbentuk komentar dalam kode.
+
+## FAQ & Troubleshooting
+
+Untuk _troubleshooting_ pemrograman, Anda dapat mencari/bertanya di [StackOverflow](https://stackoverflow.com/).
+Untuk _troubleshooting_ AI, machine learning, dan data science, silakan berdiskusi di [Kaggle](https://www.kaggle.com/).
+
+Bila pertanyaan Anda baru/belum terjawab, silakan kirimkan pranala _thread_ StackOverflow/Kaggle Anda ke grup kelas dan in syaa Allah dosen akan bantu menjawab.
+
+### ImportError
+
+Q: Sya sudah install anaconda nya pak, download pythonnya juga sudah
+Kenapa ya saat ngetik jupyter notebook di anaconda promtnya ga keluar pak
+
+![ImportError](media/importerror.jpg)
+
+A: ImportError berarti ada package atau module yg belum terinstall di "environment" Python kita
+
+Ini sangat umum terjadi sehari2, misalnya bila adik2 mencoba code Python dari internet yang butuh package tertentu dan belum terinstall, maka adik2 perlu meng-install dulu
+
+Ada 2 alternatif: 
+
+1. Pakai `conda`.
+2. Pakai `pip`.
+
+Bedanya apa?
+
+1. `conda` biasanya digunakan utk package yg "bawaan" dari Anaconda.
+
+   Nah dlm kasus dik @anggiyuniarputri harusnya pandas dan numpy itu udah include, tp entah kenapa ga muncul.
+
+   So silakan dik @anggiyuniarputri coba:
+
+   A. Jalankan _Anaconda Prompt_ as Administrator
+   B. Ketik:
+
+       conda install numpy
+
+   Pastikan konek internet. Semoga berhasil ya 😊
+
+2. `pip` ini lebih sering digunakan daripada conda.
+
+   Kalau instalasi Anaconda kita lengkap dan butuh package tertentu, biasanya yg digunakan adalah `pip`.
+   Secara sederhana cara pakainya:
+
+       pip install (namapackage)
+
+   Di kuliah ini kyny teman2 jarang bertemu dengan pip. Karena semua library yg dibutuhkan sudah built-in di Anaconda: pandas, numpy, matplotlib. Tapi bila adik2 kreatif misal bikin web atau nyobain libraries machine learning (gluon, keras, sklearn, tensorflow, mxnet) maka pakai pip untuk menginstallnya. (Recommended bagi yg bercita2 jd Data Scientist, dan bs jadi penilaian untuk Tugas 0 juga ya)
+
+### Jupyter Notebook vs PyCharm Edu
+
+Q: python nya dianjurkan pake Anaconda/Jupyter Notebook pak ? atau pake pycharm edu jg boleh? 
+
+A: pythonnya baiknya tetep install Anaconda. Alasannya krn dia udah include banyak libraries penting untuk data science.
+
+PyCharm IDEnya saja. Silakan pas bikin programnya pakai PyCharm, tapi pas ngumpulin dibuat juga notebooknya ya. Dgn format notebook sy lebih cepat bs menilainya dibandingkan source code saja. Krn di notebook ada dokumentasi, source code, dan hasil eksekusi muncul dlm satu tempat, sy menilainya lebih cepat dan adik2 juga lebih cepat tau nilainya jg 😀
+
 
 ## Ucapan Terima Kasih
 
