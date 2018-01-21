@@ -470,6 +470,7 @@ Bedanya apa?
    So silakan dik @anggiyuniarputri coba:
 
    A. Jalankan _Anaconda Prompt_ as Administrator
+
    B. Ketik:
 
        conda install numpy
