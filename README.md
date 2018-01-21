@@ -476,6 +476,10 @@ Bedanya apa?
 
    Pastikan konek internet. Semoga berhasil ya 😊
 
+   PS: Untuk memastikan semua package bawaan Anaconda terinstall dengan baik, bisa coba:
+
+       conda install anaconda
+
 2. `pip` ini lebih sering digunakan daripada conda.
 
    Kalau instalasi Anaconda kita lengkap dan butuh package tertentu, biasanya yg digunakan adalah `pip`.
