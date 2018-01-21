@@ -447,12 +447,12 @@ Bila pertanyaan Anda baru/belum terjawab, silakan kirimkan pranala _thread_ Stac
 
 ### ImportError
 
-Q: Sya sudah install anaconda nya pak, download pythonnya juga sudah
+**Anggi Yuniar Putri**: Sya sudah install anaconda nya pak, download pythonnya juga sudah
 Kenapa ya saat ngetik jupyter notebook di anaconda promtnya ga keluar pak
 
 ![ImportError](media/importerror.jpg)
 
-A: ImportError berarti ada package atau module yg belum terinstall di "environment" Python kita
+**Hendy Irawan**: ImportError berarti ada package atau module yg belum terinstall di "environment" Python kita
 
 Ini sangat umum terjadi sehari2, misalnya bila adik2 mencoba code Python dari internet yang butuh package tertentu dan belum terinstall, maka adik2 perlu meng-install dulu
 
@@ -492,9 +492,9 @@ Bedanya apa?
 
 ### Jupyter Notebook vs PyCharm Edu
 
-Q: python nya dianjurkan pake Anaconda/Jupyter Notebook pak ? atau pake pycharm edu jg boleh? 
+**Regy**: python nya dianjurkan pake Anaconda/Jupyter Notebook pak ? atau pake pycharm edu jg boleh? 
 
-A: pythonnya baiknya tetep install Anaconda. Alasannya krn dia udah include banyak libraries penting untuk data science.
+**Hendy Irawan**: pythonnya baiknya tetep install Anaconda. Alasannya krn dia udah include banyak libraries penting untuk data science.
 
 PyCharm IDEnya saja. Silakan pas bikin programnya pakai PyCharm, tapi pas ngumpulin dibuat juga notebooknya ya. Dgn format notebook sy lebih cepat bs menilainya dibandingkan source code saja. Krn di notebook ada dokumentasi, source code, dan hasil eksekusi muncul dlm satu tempat, sy menilainya lebih cepat dan adik2 juga lebih cepat tau nilainya jg 😀
 
