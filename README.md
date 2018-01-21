@@ -518,6 +518,15 @@ lalu bila modelnya udah "setengah matang", kita uji dengan data test untuk memas
 
 kenapa dipisah gitu.. selain agar kita tidak "bias", juga untuk menghemat waktu. kalau samplenya ada puluhan ribu atau bahkan jutaan, maka mentraining semuanya sekaligus akan membutuhkan waktu lama sekali saat pembuatan model. jadinya kita ambil sebagian dulu, gt deh.
 
+### Python 2.7?
+
+**Redha Juanda**: maaf pak, python nya apakah wajib versi 3.6? saya sudah terinstall versi 2.7
+
+**Hendy Irawan**: boleh 2.7 jg kalo memang sudah terbiasa.
+tp mungkin ada fitur atau library yg bermanfaat di python 3.6 (misal: [TensorFlow](https://www.tensorflow.org/install/install_windows#requirements_to_run_tensorflow_with_gpu_support)), yg sayang juga kalau tidak dicoba.
+tapi overall, tidak ada masalah
+
+
 ## Ucapan Terima Kasih
 
 Struktur mata kuliah dan pemanfaatan GitHub berdasarkan [Advanced JavaScript](https://github.com/advanced-js/syllabus) oleh Aidan Feldman.
