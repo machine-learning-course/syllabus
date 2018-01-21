@@ -396,12 +396,16 @@ Anda dapat memilih _tools_/bahasa pemrograman yang paling cocok untuk masalah ya
 * GUI Client: [GitHub Desktop](https://desktop.github.com/)
    * Alternatif: [TortoiseGit](https://tortoisegit.org/), [SourceTree](https://www.sourcetreeapp.com/), [GitHub Desktop](https://desktop.github.com/), [GitKraken](http://gitkraken.com/)
 
-### Latihan Soal
+### Latihan Soal & Komunitas Data Science
+
+* [Kaggle](https://www.kaggle.com)
+* [Data Science Indonesia](https://datascience.or.id)
+
+   Bila Anda berminat untuk berkarir di bidang AI, machine learning, atau data science, sangat disarankan untuk aktif di Kaggle dan bergabung dengan komunitas Data Science Indonesia, ada grup Telegram juga lho yang cukup ramai. 😊
 
 * [HackerRank](https://www.hackerrank.com/)
 * [HackerEarth](https://www.hackerearth.com/)
 * [CodeChef](https://www.codechef.com/)
-* [Kaggle](https://www.kaggle.com)
 
 ### Kompetisi Bidang Informatika
 
@@ -498,6 +502,19 @@ Bedanya apa?
 
 PyCharm IDEnya saja. Silakan pas bikin programnya pakai PyCharm, tapi pas ngumpulin dibuat juga notebooknya ya. Dgn format notebook sy lebih cepat bs menilainya dibandingkan source code saja. Krn di notebook ada dokumentasi, source code, dan hasil eksekusi muncul dlm satu tempat, sy menilainya lebih cepat dan adik2 juga lebih cepat tau nilainya jg 😀
 
+### train.csv?
+
+**Farhan** file train digunakan untuk apa ya?
+
+**Hendy Irawan**: itu buat contoh format saja.
+kalo yg dipakai untuk submission berdasarkan data dari test.csv ya
+
+jadi biasanya di dunia data science, data itu dibagi training data dan testing.
+awalnya kita membuat model machine learning dengan training data, biasanya hanya sebagian kecil, lalu kita utak-atik sampai hasil performance-nya bagus.
+
+lalu bila modelnya udah "setengah matang", kita uji dengan data test untuk memastikan performanya benar2 oke (tidak overfitting). bila oke, maka sistemnya kita deploy ke production dan dapat dipakai.
+
+kenapa dipisah gitu.. selain agar kita tidak "bias", juga untuk menghemat waktu. kalau samplenya ada puluhan ribu atau bahkan jutaan, maka mentraining semuanya sekaligus akan membutuhkan waktu lama sekali saat pembuatan model. jadinya kita ambil sebagian dulu, gt deh.
 
 ## Ucapan Terima Kasih
 
