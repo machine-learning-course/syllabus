@@ -200,6 +200,7 @@ Nilai plus akan diberikan untuk:
 #### Referensi
 
 * [Introduction to residuals and least squares regression](https://www.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2d-residuals/v/introduction-to-residuals-and-least-squares-regression)
+* [02 Regression: Linear Models](https://www.kaggle.com/hendyirawan/02-regression-linear-models/)
 * Slides: [Jyrki Kivinen. Introduction to Machine Learning.](https://www.dropbox.com/s/8mtjm5dz8u9rfkn/01%20IntroductionToMachineLearning-Jyrki.pdf?dl=0)
 * Slides [Regression](https://www.dropbox.com/s/m21tjjqw40mqedi/02%20Regression.pdf?dl=0)
 * [Satu Lagi Tulisan tentang Regresi](https://tentangdata.wordpress.com/2015/05/25/satu-lagi-tulisan-tentang-regresi/)
