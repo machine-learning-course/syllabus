@@ -212,9 +212,15 @@ Nilai plus akan diberikan untuk:
 
 ### Minggu ke-3
 
-Support Vector Machine:
+Naive Bayes:
 
-- Binary Class SVM: Linearly separable data dan Nonlinearly separable data
+- Naive Bayes Classifier: Discrete and Continous Attributes
+
+#### Referensi
+
+* Slides [Bapak Anditya's slide](https://drive.google.com/file/d/1x0nJ9fnJVZhd6QFQh0bHeigi-MLd_TQD/view)
+* [Cerita Tentang Bayesian Probability](https://tentangdata.wordpress.com/2016/03/01/apakah-daryl-seorang-bayesian/)
+
 
 #### Tugas
 
@@ -363,6 +369,7 @@ Anda dapat memilih _tools_/bahasa pemrograman yang paling cocok untuk masalah ya
    * [Jupyter Notebook](http://jupyter.org/) (termasuk dalam instalasi Anaconda)
    * [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/learners/)
    * Library yang penting: [pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html), [numpy](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html), [matplotlib](https://matplotlib.org/tutorials/introductory/pyplot.html)
+   * Tutorial singkat python dan numpy: [Stanford CNN course Python-Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 * Java
    * [Java Development Kit (JDK)](www.oracle.com/technetwork/java/javase/downloads/index.html)
    * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
