@@ -329,7 +329,7 @@ Ensemble Methods (Metode-metode Gabungan):
 
 ## Tugas-tugas
 
-#### Tugas 0A: Kelas IF-39-02 dan IF-41-GAB02
+#### Tugas 0A "TelU Legends Heroes": Kelas IF-39-02 dan IF-41-GAB02
 
 1. Bergabung dengan grup LINE/WhatsApp. Pranala akan diberikan saat sesi kuliah.
 2. [Lengkapi profil GitHub Anda.](https://github.com/settings/profile)
@@ -338,7 +338,7 @@ Ensemble Methods (Metode-metode Gabungan):
 5. Lengkapi profil Kaggle Anda
 6. [**TelU Legends Heroes**](https://www.kaggle.com/c/heroes)
 
-#### Tugas 0B: Kelas IF-39-02 dan IF-41-GAB02
+#### Tugas 0B "Sharing is Caring": Kelas IF-39-02 dan IF-41-GAB02
 
 1. Buatlah 11 kelompok dalam satu kelas. Untuk IF-39-02: 3-4 orang per kelompok. Untuk IF-41-GAB02: 2-3 orang per kelompok.
    * Pembagian kelompok harus sudah fix per Jumat 2 Feb 2018 pukul 16:00 WIB. Dengan cara mencantumkan NIM & Nama masing-masing anggota di dalam file `README.md` Git repository kelompok yang disediakan GitHub Classroom di pranala berikut: https://classroom.github.com/g/X7g_IYVb
