@@ -90,10 +90,6 @@ Adapun bahan kajian atau pokok bahasannya adalah:
 
 Kajian akan didemonstrasikan menggunakan contoh _live-code_ maupun slides yang tersedia di bawah. Latihan lebih lanjut akan dilakukan melalui tugas yang diberikan.
 
-## Tugas
-
-Semua tugas dapat dilihat di bagian [Kerangka Mata Kuliah](#kerangka-mata-kuliah).
-
 ### Workflow
 
 Bila Anda menggunakan GitHub Desktop, panduan umum berikut dapat membantu Anda:
@@ -167,15 +163,6 @@ Nilai plus akan diberikan untuk:
 1. Kaggle
 1. Penjelasan [ketentuan](#ketentuan)
 
-#### Tugas 0A: Kelas IF-39-02 dan IF-41-GAB02
-
-1. Bergabung dengan grup LINE/WhatsApp. Pranala akan diberikan saat sesi kuliah.
-2. [Lengkapi profil GitHub Anda.](https://github.com/settings/profile)
-3. Mendaftar paket [GitHub Student Developer Pack](https://education.github.com/pack)
-4. Membuat akun [Kaggle](https://www.kaggle.com)
-5. Lengkapi profil Kaggle Anda
-6. [**TelU Legends Heroes**](https://www.kaggle.com/c/heroes)
-
 #### Referensi
 
 * Slides: [Jyrki Kivinen. Introduction to Machine Learning.](https://www.dropbox.com/s/8mtjm5dz8u9rfkn/01%20IntroductionToMachineLearning-Jyrki.pdf?dl=0)
@@ -206,10 +193,6 @@ Nilai plus akan diberikan untuk:
 * [Satu Lagi Tulisan tentang Regresi](https://tentangdata.wordpress.com/2015/05/25/satu-lagi-tulisan-tentang-regresi/)
 * [Simple Linear Regression - Bagian 1](https://tentangdata.wordpress.com/2015/06/07/simple-linear-regression-bagian-1/)
 
-#### Tugas
-
-* TODO
-
 ### Minggu ke-3
 
 Naive Bayes:
@@ -220,52 +203,48 @@ Naive Bayes:
 
 * Slides [Bapak Anditya's slide](https://drive.google.com/file/d/1x0nJ9fnJVZhd6QFQh0bHeigi-MLd_TQD/view)
 * [Cerita Tentang Bayesian Probability](https://tentangdata.wordpress.com/2016/03/01/apakah-daryl-seorang-bayesian/)
-
-
-#### Tugas
-
-* TODO
+* [Naive Bayes for Non-text Data](https://www.dropbox.com/s/yf1fppd8mob0ini/03a%20NaiveBayes_for_NonTextData.ppt?dl=0)
+* [Naive Bayes for Text Data](https://www.dropbox.com/s/t5u4o47s3upewmg/03b%20NaiveBayes_for_TextData.pptx?dl=0)
 
 ### Minggu ke-4
-
-Support Vector Machine:
-
-- Multi Class SVM: Linearly separable data dan Nonlinearly separable data
-
-#### Tugas
-
-* TODO
-
-### Minggu ke-5
 
 Artificial Neural Networks:
 
 - Multi-Layer Perceptron dengan Backpropagation learning
 
-#### Tugas
+#### Referensi
 
-* TODO
+* [Slides ANN-MLP](https://www.dropbox.com/s/ga43clihtinwg85/04a%20ANN-MLP.pptx?dl=0)
 
-### Minggu ke-6
+### Minggu ke-5
 
 Artificial Neural Networks:
 
-- Probabilistic Neural Network
+- Probabilistic Neural Networks
 
-#### Tugas
+#### Referensi
 
-* TODO
+* [Slides Probabilistic Neural Networks](https://www.dropbox.com/s/xrx2vz64v62mn2l/04b%20Probabilisitic%20Neural%20Networks.mp4?dl=0)
+
+### Minggu ke-6
+
+Support Vector Machine:
+
+- Binary Class SVM: Linearly separable data dan non-linearly separable data
+
+#### Referensi
+
+* [Slides Support Vector Machine](https://www.dropbox.com/s/j7hgl0e3gfig350/05%20Support_Vector_Machine.pdf?dl=0)
 
 ### Minggu ke-7
 
-Naïve Bayes:
+Support Vector Machine:
 
-- Discrete attributes
-- Continue attributes
+- Multi Class SVM: Linearly separable data dan Nonlinearly separable data
 
-#### Tugas
+#### Referensi
 
-* TODO
+* [Slides Support Vector Machine](https://www.dropbox.com/s/j7hgl0e3gfig350/05%20Support_Vector_Machine.pdf?dl=0)
 
 ### Minggu ke-8
 
@@ -276,9 +255,9 @@ Naïve Bayes:
    - Group average
    - Centroid-based
 
-#### Tugas
+#### Referensi
 
-TODO
+* [Slides Clustering](https://www.dropbox.com/s/f17ir1omu99n5io/06%20UnsupervisedLearning-Clustering.pdf?dl=0)
 
 ### Minggu ke-9
 
@@ -291,53 +270,98 @@ TODO
    - nested clusters representation,
    - divisive dan agglomerative approach
 
-#### Tugas
+#### Referensi
 
-TODO
+* [Slides Clustering](https://www.dropbox.com/s/f17ir1omu99n5io/06%20UnsupervisedLearning-Clustering.pdf?dl=0)
 
 ### Minggu ke-10
 
 Self-Organizing (Kohonen’s) Maps
 
-#### Tugas
+#### Referensi
 
 * TODO
 
 ### Minggu ke-11
 
-Self-Organizing (Kohonen’s) Maps
+Reinforcement Learning:
 
-#### Tugas
+* Markov Decision Processes
+* Bellman Equations
 
-* TODO
+#### Referensi
+
+* [ReinforcementLearning.zip](https://www.dropbox.com/s/ydld66fs2bk5x1o/07%20ReinforcementLearning.zip?dl=0)
 
 ### Minggu ke-12
 
 Reinforcement Learning:
-- Markov Decision Processes
-- Bellman Equations
 
-#### Tugas
+* Value Iteration and Policy Iteration
+* Q-Learning
 
-* TODO
+#### Referensi
+
+* [ReinforcementLearning.zip](https://www.dropbox.com/s/ydld66fs2bk5x1o/07%20ReinforcementLearning.zip?dl=0)
 
 ### Minggu ke-13
 
-Reinforcement Learning:
-- Value Iteration and Policy Iteration
-- Q-Learning
+Ensemble Methods (Metode-metode Gabungan):
 
-#### Tugas
+1. Bagging (voting for classification, averaging for regression).
+2. Boosting
 
-* TODO
+#### Referensi
+
+* [Slides Ensemble Methods](https://www.dropbox.com/s/p7j389eu9pbgkke/08%20ensemble_sdm10.ppt?dl=0)
+* [EnsembleMethods.zip](https://www.dropbox.com/s/ihb3jswikumzmj0/08%20EnsembleMethods.zip?dl=0)
 
 ### Minggu ke-14
 
 Ensemble Methods (Metode-metode Gabungan):
-- Voting
-- Boosting
-- Random Ensembles (Random Forest)
 
+3. Random Forests
+
+#### Referensi
+
+* [Slides Ensemble Methods](https://www.dropbox.com/s/p7j389eu9pbgkke/08%20ensemble_sdm10.ppt?dl=0)
+* [EnsembleMethods.zip](https://www.dropbox.com/s/ihb3jswikumzmj0/08%20EnsembleMethods.zip?dl=0)
+
+## Tugas-tugas
+
+#### Tugas 0A: Kelas IF-39-02 dan IF-41-GAB02
+
+1. Bergabung dengan grup LINE/WhatsApp. Pranala akan diberikan saat sesi kuliah.
+2. [Lengkapi profil GitHub Anda.](https://github.com/settings/profile)
+3. Mendaftar paket [GitHub Student Developer Pack](https://education.github.com/pack)
+4. Membuat akun [Kaggle](https://www.kaggle.com)
+5. Lengkapi profil Kaggle Anda
+6. [**TelU Legends Heroes**](https://www.kaggle.com/c/heroes)
+
+#### Tugas 0B: Kelas IF-39-02 dan IF-41-GAB02
+
+1. Buatlah 11 kelompok dalam satu kelas. Untuk IF-39-02: 3-4 orang per kelompok. Untuk IF-41-GAB02: 2-3 orang per kelompok.
+   * Pembagian kelompok harus sudah fix per Jumat 2 Feb 2018 pukul 16:00 WIB. Dengan cara mencantumkan NIM & Nama masing-masing anggota di dalam file `README.md` Git repository kelompok yang disediakan GitHub Classroom di pranala berikut: https://classroom.github.com/g/X7g_IYVb
+2. Setiap kelompok membuat rangkuman sesuai bagiannya, dan dipresentasikan oleh semua anggota kelompok sesuai jadwal
+   * **Sumber materi bebas** (boleh dari referensi di silabus maupun yang lain)
+   * Materi presentasi sudah di-_push_ ke repository GitHub Classroom kelompok maksimal sebelum perkuliahan dimulai (pada jadwal kelompok tersebut)
+   * Presentasi per kelompok max 30 menit, tiap anggota wajib presentasi di sub-bagian tertentu, **yang tidak presentasi nilai 0**
+
+Pembagian materi dan jadwal presentasi kelompok:
+
+* Kelompok A (Minggu ke-4): Artificial Neural Networks - Multi-Layer Perceptron dengan Backpropagation learning
+* Kelompok B (Minggu ke-5): Artificial Neural Networks - Probabilistic Neural Networks
+* Kelompok C (Minggu ke-6): Support Vector Machine - Binary Class SVM
+* Kelompok D (Minggu ke-7): Support Vector Machine - Multi Class SVM
+* Kelompok E (Minggu ke-8): 1. Konsep clustering; 2. Proximity measure antar cluster
+* Kelompok F (Minggu ke-9): 3. Partitional-based clustering (K-means); 4. Hierarchical clustering
+* Kelompok G (Minggu ke-10): Self-Organizing (Kohonen’s) Maps
+* Kelompok H (Minggu ke-11): Reinforcement Learning: Markov Decision Processes, Bellman Equations
+* Kelompok I (Minggu ke-12): Reinforcement Learning: Value Iteration and Policy Iteration, Q-Learning
+* Kelompok J (Minggu ke-13): Ensemble Methods (Metode-metode Gabungan): Bagging, Boosting
+* Kelompok K (Minggu ke-14): Ensemble Methods (Metode-metode Gabungan): Random Forests
+
+   
 ## Pustaka
 
 ### Pustaka Utama
