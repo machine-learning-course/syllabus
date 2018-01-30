@@ -344,8 +344,10 @@ Ensemble Methods (Metode-metode Gabungan):
    * Pembagian kelompok harus sudah fix per Jumat 2 Feb 2018 pukul 16:00 WIB. Dengan cara mencantumkan NIM & Nama masing-masing anggota di dalam file `README.md` Git repository kelompok yang disediakan GitHub Classroom di pranala berikut: https://classroom.github.com/g/X7g_IYVb
 2. Setiap kelompok membuat rangkuman sesuai bagiannya, dan dipresentasikan oleh semua anggota kelompok sesuai jadwal
    * **Sumber materi bebas** (boleh dari referensi di silabus maupun yang lain)
-   * Materi presentasi sudah di-_push_ ke repository GitHub Classroom kelompok maksimal sebelum perkuliahan dimulai (pada jadwal kelompok tersebut)
-   * Presentasi per kelompok max 30 menit, tiap anggota wajib presentasi di sub-bagian tertentu, **yang tidak presentasi nilai 0**
+   * **Format materi bebas** (slide, Word, animasi, video, interaktif, web based, Python notebook, live coding, ...)
+   * File-file materi presentasi sudah di-_push_ ke repository GitHub Classroom kelompok maksimal sebelum perkuliahan dimulai (pada jadwal kelompok tersebut)
+   * Presentasi tiap kelompok max 30 menit, tiap anggota wajib presentasi di sub-bagian tertentu, **yang tidak presentasi nilai 0**
+   * Diskusi / _sharing_ materi diperbolehkan dan dianjurkan
 
 Pembagian materi dan jadwal presentasi kelompok:
 
