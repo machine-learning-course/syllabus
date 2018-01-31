@@ -341,7 +341,7 @@ Ensemble Methods (Metode-metode Gabungan):
 #### Tugas 0B "Sharing is Caring": Kelas IF-39-02 dan IF-41-GAB02
 
 1. Buatlah 11 kelompok dalam satu kelas. Untuk IF-39-02: 3-4 orang per kelompok. Untuk IF-41-GAB02: 2-3 orang per kelompok.
-   * Pembagian kelompok harus sudah fix per Jumat 2 Feb 2018 pukul 16:00 WIB. Dengan cara mencantumkan NIM & Nama masing-masing anggota di dalam file `README.md` Git repository kelompok yang disediakan GitHub Classroom di pranala berikut: [https://classroom.github.com/g/X7g_IYVb](https://classroom.github.com/g/X7g_IYVb)
+   * Pembagian kelompok harus sudah fix per Jumat 2 Feb 2018 pukul 16:00 WIB. Dengan cara mencantumkan NIM & Nama masing-masing anggota di dalam file `README.md` Git repository kelompok yang disediakan GitHub Classroom di pranala berikut: [https://classroom.github.com/g/X7g_IYVb](https://classroom.github.com/g/X7g_IYVb) . Saat membuat nama kelompok di GitHub Classroom prefix dengan kelasnya, contoh: `IF02_A` (kelas IF-39-02 kelompok A), `GAB02_A` (kelas IF-41-GAB02 kelompok A).
 2. Setiap kelompok membuat rangkuman sesuai bagiannya, dan dipresentasikan oleh semua anggota kelompok sesuai jadwal
    * **Sumber materi bebas** (boleh dari referensi di silabus maupun yang lain)
    * **Format materi bebas** (slide, Word, animasi, video, interaktif, web based, Python notebook, live coding, ...)
