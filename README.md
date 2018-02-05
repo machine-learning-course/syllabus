@@ -215,6 +215,7 @@ Artificial Neural Networks:
 #### Referensi
 
 * [Slides ANN-MLP](https://www.dropbox.com/s/ga43clihtinwg85/04a%20ANN-MLP.pptx?dl=0)
+* [Slides ANN-MLP dari Pak Suyanto](http://suyanto.staff.telkomuniversity.ac.id/files/2018/02/ML-04-ANN-MLP.pptx)
 
 ### Minggu ke-5
 
@@ -377,6 +378,7 @@ Pembagian materi dan jadwal presentasi kelompok:
 
 1. Mitchell M. Tom, 1997, Machine Learning. McGraw Hill, International Editions. Printed in Singapore. Last Edition
 2. Nils. J. Nilson, 1998, Intoduction to Machine Learning, Department of Computer Science, Standford University, Last Edition
+3. Silakan lihat daftar referensi untuk masing-masing topik
 
 ### Materi Pemula
 
