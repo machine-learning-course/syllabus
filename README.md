@@ -168,6 +168,7 @@ Nilai plus akan diberikan untuk:
 * Slides: [Jyrki Kivinen. Introduction to Machine Learning.](https://www.dropbox.com/s/8mtjm5dz8u9rfkn/01%20IntroductionToMachineLearning-Jyrki.pdf?dl=0)
 * [Anaconda for Windows/macOS/Linux](https://www.anaconda.com/download/) (gunakan varian Python 3.6)
 * [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/learners/)
+* [Slides Introduction dari Pak Suyanto](http://suyanto.staff.telkomuniversity.ac.id/files/2018/01/ML-01-Introduction.pptx)
 
 ### Minggu ke-2
 
@@ -192,6 +193,7 @@ Nilai plus akan diberikan untuk:
 * Slides [Regression](https://www.dropbox.com/s/m21tjjqw40mqedi/02%20Regression.pdf?dl=0)
 * [Satu Lagi Tulisan tentang Regresi](https://tentangdata.wordpress.com/2015/05/25/satu-lagi-tulisan-tentang-regresi/)
 * [Simple Linear Regression - Bagian 1](https://tentangdata.wordpress.com/2015/06/07/simple-linear-regression-bagian-1/)
+* Slides Regression dari Pak Suyanto: [PDF](http://suyanto.staff.telkomuniversity.ac.id/files/2018/01/ML-02-Regression.pdf) | [PowerPoint](http://suyanto.staff.telkomuniversity.ac.id/files/2018/01/ML-02-Regression.pptx)
 
 ### Minggu ke-3
 
@@ -205,6 +207,7 @@ Naive Bayes:
 * [Cerita Tentang Bayesian Probability](https://tentangdata.wordpress.com/2016/03/01/apakah-daryl-seorang-bayesian/)
 * [Naive Bayes for Non-text Data](https://www.dropbox.com/s/yf1fppd8mob0ini/03a%20NaiveBayes_for_NonTextData.ppt?dl=0)
 * [Naive Bayes for Text Data](https://www.dropbox.com/s/t5u4o47s3upewmg/03b%20NaiveBayes_for_TextData.pptx?dl=0)
+* [Slides Naive Bayes dari Pak Suyanto](http://suyanto.staff.telkomuniversity.ac.id/files/2018/02/ML-03-Naive-Bayes.pptx)
 
 ### Minggu ke-4
 
@@ -330,7 +333,7 @@ Ensemble Methods (Metode-metode Gabungan):
 
 ## Tugas-tugas
 
-#### Tugas 0A "TelU Legends Heroes": Kelas IF-39-02 dan IF-41-GAB02
+### Tugas 0A "TelU Legends Heroes": Kelas IF-39-02 dan IF-41-GAB02
 
 1. Bergabung dengan grup LINE/WhatsApp. Pranala akan diberikan saat sesi kuliah.
 2. [Lengkapi profil GitHub Anda.](https://github.com/settings/profile)
@@ -339,7 +342,7 @@ Ensemble Methods (Metode-metode Gabungan):
 5. Lengkapi profil Kaggle Anda
 6. [**TelU Legends Heroes**](https://www.kaggle.com/c/heroes)
 
-#### Tugas 0B "Sharing is Caring": Kelas IF-39-02 dan IF-41-GAB02
+### Tugas 0B "Sharing is Caring": Kelas IF-39-02 dan IF-41-GAB02
 
 1. Buatlah 11 kelompok dalam satu kelas. Untuk IF-39-02: 3-4 orang per kelompok. Untuk IF-41-GAB02: 2-3 orang per kelompok.
    * Pembagian kelompok harus sudah fix per Jumat 2 Feb 2018 pukul 16:00 WIB. Dengan cara mencantumkan NIM & Nama masing-masing anggota di dalam file `README.md` Git repository kelompok yang disediakan GitHub Classroom di pranala berikut: [https://classroom.github.com/g/X7g_IYVb](https://classroom.github.com/g/X7g_IYVb) . Saat membuat nama kelompok di GitHub Classroom prefix dengan kelasnya, contoh: `IF02_A` (kelas IF-39-02 kelompok A), `GAB02_A` (kelas IF-41-GAB02 kelompok A).
@@ -364,7 +367,10 @@ Pembagian materi dan jadwal presentasi kelompok:
 * Kelompok J (Minggu ke-13): Ensemble Methods (Metode-metode Gabungan): Bagging, Boosting
 * Kelompok K (Minggu ke-14): Ensemble Methods (Metode-metode Gabungan): Random Forests
 
-   
+### Tugas 1.1
+
+* [Tugas 1.1 - Kelas IF-39-02 dan IF-41-GAB02](assignment-1-1-hiw)
+
 ## Pustaka
 
 ### Pustaka Utama
