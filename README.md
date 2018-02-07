@@ -356,6 +356,8 @@ Ensemble Methods (Metode-metode Gabungan):
 Pembagian materi dan jadwal presentasi kelompok:
 
 * Kelompok A (Minggu ke-4): Artificial Neural Networks - Multi-Layer Perceptron dengan Backpropagation learning
+   * [Presentasi IF-39-02 (Farhan, Maulana, Melinda, Reza)](https://github.com/csh3l3-2017b/0b-sharing-is-caring-if02_z)
+   * [Presentasi IF-41-GAB02 (Amran, Adnan)](https://github.com/csh3l3-2017b/0b-sharing-is-caring-gab02_a)
 * Kelompok B (Minggu ke-5): Artificial Neural Networks - Probabilistic Neural Networks
 * Kelompok C (Minggu ke-6): Support Vector Machine - Binary Class SVM
 * Kelompok D (Minggu ke-7): Support Vector Machine - Multi Class SVM
