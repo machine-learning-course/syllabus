@@ -406,6 +406,10 @@ Anda dapat memilih _tools_/bahasa pemrograman yang paling cocok untuk masalah ya
    * [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/learners/)
    * Library yang penting: [pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html), [numpy](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html), [matplotlib](https://matplotlib.org/tutorials/introductory/pyplot.html)
    * Tutorial singkat python dan numpy: [Stanford CNN course Python-Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+   * [NumPy Quickstart Tutorial - SciPy](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
+   * [NumPy Array Tutorial - DataCamp](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
+   * [NumPy Cheat Sheet - DataQuest](https://www.dataquest.io/blog/numpy-cheat-sheet/)
+   * [NumPy Cheat Sheet - DataCamp](https://www.datacamp.com/community/blog/python-numpy-cheat-sheet)
 * Java
    * [Java Development Kit (JDK)](www.oracle.com/technetwork/java/javase/downloads/index.html)
    * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
