@@ -218,7 +218,7 @@ Artificial Neural Networks:
 #### Referensi
 
 * [Slides ANN-MLP](https://www.dropbox.com/s/ga43clihtinwg85/04a%20ANN-MLP.pptx?dl=0)
-* [Slides ANN-MLP dari Pak Suyanto](http://suyanto.staff.telkomuniversity.ac.id/files/2018/02/ML-04-ANN-MLP.pptx)
+* [Slides ANN-MLP & PNN dari Pak Suyanto](https://www.dropbox.com/s/4p7frktuv5l5c0o/ML%2004%20ANN-MLP%20%26%20PNN.pptx?dl=0)
 
 ### Minggu ke-5
 
@@ -228,7 +228,8 @@ Artificial Neural Networks:
 
 #### Referensi
 
-* [Slides Probabilistic Neural Networks](https://www.dropbox.com/s/xrx2vz64v62mn2l/04b%20Probabilisitic%20Neural%20Networks.mp4?dl=0)
+* [Video Probabilistic Neural Networks](https://www.dropbox.com/s/xrx2vz64v62mn2l/04b%20Probabilisitic%20Neural%20Networks.mp4?dl=0)
+* [Slides ANN-MLP & PNN dari Pak Suyanto](https://www.dropbox.com/s/4p7frktuv5l5c0o/ML%2004%20ANN-MLP%20%26%20PNN.pptx?dl=0)
 
 ### Minggu ke-6
 
