@@ -374,6 +374,12 @@ Pembagian materi dan jadwal presentasi kelompok:
 
 * [Tugas 1.1 - Kelas IF-39-02 dan IF-41-GAB02](assignment-1-1-hiw)
 
+### Tugas 1.2
+
+* [Tugas 1.2](https://maclearnme.wixsite.com/mysite)
+   * Soal unik sesuai NIM
+   * _Deadline_: Selasa tanggal 20 Februari 2018 pukul 21.00 WIB
+
 ## Pustaka
 
 ### Pustaka Utama
