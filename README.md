@@ -110,10 +110,6 @@ Langkah-langkah pengerjaan tugas sebagai berikut:
 1. _Push/sync_ ke GitHub.
 1. Setiap tugas memiliki jadwal _deadline_ yang sudah ditentukan. Anda tetap dapat mengirim perbaikan dan penyempurnaan sampai waktu pengirim tugas ditutup. Anda tetap dapat melakukan _push_ setelah _deadline_, namun penilaian utama diberikan pada versi yang Anda kirimkan sebelum _deadline_.
 
-#### Versi
-
-Untuk tugas dengan beberapa Versi (`V1`, `V2`, dll.) yang dicantumkan dalam deskripsi tugas: Versi tersebut dapat dijadikan panduan bagaimana mengerjakan tugas-tugas tersebut dalam langkah-langkah kecil. Pastikan Anda telah mencapai Versi tertinggi pada tanggal _deadline_. Lihat juga: [Bonus](#bonus).
-
 ### Ketentuan
 
 Ketentuan berikut juga berlaku di dunia nyata, lho.
@@ -122,14 +118,6 @@ Ketentuan berikut juga berlaku di dunia nyata, lho.
     * Pastikan program mudah dibaca.
         * ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
 * Setiap kode yang Anda ambil dari sumber lain harus Anda cantumkan atribusi, lihat: [Plagiarisme](#plagiarisme).
-
-#### Bonus
-
-Nilai plus akan diberikan untuk:
-
-* Tes otomatis (misalnya menggunakan [unittest](https://docs.python.org/3/library/unittest.html))
-* Kreativitas (syarat utama tugas tetap harus terpenuhi)
-* Tugas tertentu mencantumkan bagian `BONUS`.
 
 ## Kerangka Mata Kuliah
 
