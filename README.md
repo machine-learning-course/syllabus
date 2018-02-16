@@ -220,6 +220,19 @@ Artificial Neural Networks:
 * [Slides ANN-MLP](https://www.dropbox.com/s/ga43clihtinwg85/04a%20ANN-MLP.pptx?dl=0)
 * [Slides ANN-MLP & PNN dari Pak Suyanto](https://www.dropbox.com/s/4p7frktuv5l5c0o/ML%2004%20ANN-MLP%20%26%20PNN.pptx?dl=0)
 
+#### Daftar materi referensi tentang ANN yang bagus (via Bu Ade Romadhony 😆)
+
+* [Video kuliah pengantar ANN oleh Geoffrey Hinton](https://www.youtube.com/watch?v=cbeTc-Urqak&index=1&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
+* [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
+* [Sejarah ANN](http://www.adreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/)
+* [Hacker's Guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+* [Artikel tentang kenapa harus belajar backpropagation](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b), sementara sekarang sudah banyak tools/API/library yang tinggal dipakai.
+* [Artikel tentang backpropagation](http://colah.github.io/posts/2015-08-Backprop/), snippet text:
+
+   > When I first understood what backpropagation was, my reaction was:
+   >
+   > “Oh, that’s just the chain rule! How did it take us so long to figure out?”" 😁
+
 ### Minggu ke-5
 
 Artificial Neural Networks:
@@ -410,6 +423,7 @@ Anda dapat memilih _tools_/bahasa pemrograman yang paling cocok untuk masalah ya
 
 * Python 3.x (**disarankan**). Installer: [Anaconda with Python 3.x](https://www.anaconda.com/download/).
    * [Jupyter Notebook](http://jupyter.org/) (termasuk dalam instalasi Anaconda)
+     * [MathJax Basic Tutorial and Quick Reference](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
    * [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/learners/)
    * Library yang penting: [pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html), [numpy](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html), [matplotlib](https://matplotlib.org/tutorials/introductory/pyplot.html)
    * Tutorial singkat python dan numpy: [Stanford CNN course Python-Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
