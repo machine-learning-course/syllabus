@@ -230,6 +230,8 @@ Artificial Neural Networks:
 #### Referensi
 
 * [Video Probabilistic Neural Networks](https://www.dropbox.com/s/xrx2vz64v62mn2l/04b%20Probabilisitic%20Neural%20Networks.mp4?dl=0)
+* [Probabilistic Neural Networks 1: SimpleOCR](https://www.kaggle.com/hendyirawan/probabilistic-neural-networks-simpleocr)
+* [Probabilistic Neural Networks 2: Smoothing Effect](https://www.kaggle.com/hendyirawan/probabilistic-neural-networks-smoothing-effect)
 * [Slides ANN-MLP & PNN dari Pak Suyanto](https://www.dropbox.com/s/4p7frktuv5l5c0o/ML%2004%20ANN-MLP%20%26%20PNN.pptx?dl=0)
 
 ### Minggu ke-6
