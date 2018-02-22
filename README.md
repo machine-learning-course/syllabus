@@ -383,6 +383,10 @@ Pembagian materi dan jadwal presentasi kelompok:
    * Soal unik sesuai NIM
    * _Deadline_: Selasa tanggal 20 Februari 2018 pukul 21.00 WIB
 
+### Tugas 1.3
+
+* [Tugas 1.3 Jaringan Saraf Probabilistik - Kelas IF-39-02 dan IF-41-GAB02](https://www.kaggle.com/c/ml-2017b-1-3)
+
 ## Pustaka
 
 ### Pustaka Utama
