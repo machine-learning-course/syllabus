@@ -387,6 +387,10 @@ Pembagian materi dan jadwal presentasi kelompok:
 
 * [Tugas 1.3 Jaringan Saraf Probabilistik - Kelas IF-39-02 dan IF-41-GAB02](https://www.kaggle.com/t/f1063f60fe3e4230a1592f100698aa72)
 
+### Tugas 1.4
+
+* [Tugas 1.4 Support Vector Machine - Kelas IF-39-02 dan IF-41-GAB02](assignment-1-4-hiw)
+
 ## Pustaka
 
 ### Pustaka Utama
