@@ -269,6 +269,8 @@ Support Vector Machine:
 * [Hierarchical Clustering 3: single-link vs. complete-link](https://www.youtube.com/watch?v=VMyXc3SiEqs)
 * [Proximity measures](https://www.dropbox.com/s/dibb3nymgg12pvd/06%20Proximity%20measures.jpg?dl=0)
 * [Slides Pak Anditya Arifianto](http://anditya.staff.telkomuniversity.ac.id/academic/ml/)
+* [Slides GAB02 Kelompok E](https://github.com/csh3l3-2017b/0b-sharing-is-caring-gab02_e)
+* [Slides IF02 Kelompok E](https://github.com/csh3l3-2017b/0b-sharing-is-caring-if02_e)
 
 ### Minggu ke-9
 
