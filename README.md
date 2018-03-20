@@ -268,6 +268,7 @@ Support Vector Machine:
 * [Slides Clustering](https://www.dropbox.com/s/f17ir1omu99n5io/06%20UnsupervisedLearning-Clustering.pdf?dl=0)
 * [Hierarchical Clustering 3: single-link vs. complete-link](https://www.youtube.com/watch?v=VMyXc3SiEqs)
 * [Proximity measures](https://www.dropbox.com/s/dibb3nymgg12pvd/06%20Proximity%20measures.jpg?dl=0)
+* [Slides Pak Anditya Arifianto](http://anditya.staff.telkomuniversity.ac.id/academic/ml/)
 
 ### Minggu ke-9
 
@@ -283,6 +284,7 @@ Support Vector Machine:
 #### Referensi
 
 * [Slides Clustering](https://www.dropbox.com/s/f17ir1omu99n5io/06%20UnsupervisedLearning-Clustering.pdf?dl=0)
+* [Slides Pak Anditya Arifianto](http://anditya.staff.telkomuniversity.ac.id/academic/ml/)
 
 ### Minggu ke-10
 
