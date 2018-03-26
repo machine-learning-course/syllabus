@@ -286,7 +286,10 @@ Support Vector Machine:
 #### Referensi
 
 * [Slides Clustering](https://www.dropbox.com/s/f17ir1omu99n5io/06%20UnsupervisedLearning-Clustering.pdf?dl=0)
+* [Slides Pak Suyanto](https://www.dropbox.com/s/d1yx0ecgijh53l4/ML%2008-09%20k-Means%20and%20Aglomerative.pptx?dl=0)
 * [Slides Pak Anditya Arifianto](http://anditya.staff.telkomuniversity.ac.id/academic/ml/)
+* [Slides GAB02 Kelompok F](https://github.com/csh3l3-2017b/0b-sharing-is-caring-gab02_f)
+* [Slides IF02 Kelompok F](https://github.com/csh3l3-2017b/0b-sharing-is-caring-if02_f)
 
 ### Minggu ke-10
 
@@ -306,6 +309,7 @@ Reinforcement Learning:
 #### Referensi
 
 * [ReinforcementLearning.zip](https://www.dropbox.com/s/ydld66fs2bk5x1o/07%20ReinforcementLearning.zip?dl=0)
+* [Slides IF02 Kelompok G](https://github.com/csh3l3-2017b/0b-sharing-is-caring-if02_g)
 
 ### Minggu ke-12
 
@@ -317,6 +321,7 @@ Reinforcement Learning:
 #### Referensi
 
 * [ReinforcementLearning.zip](https://www.dropbox.com/s/ydld66fs2bk5x1o/07%20ReinforcementLearning.zip?dl=0)
+* [Slides IF02 Kelompok H](https://github.com/csh3l3-2017b/0b-sharing-is-caring-if02_h)
 
 ### Minggu ke-13
 
