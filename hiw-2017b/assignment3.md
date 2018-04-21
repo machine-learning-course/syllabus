@@ -1,12 +1,12 @@
 # Pembelajaran Mesin
 
-Semester Genap Tahun Akademik 2017-2018
+**Semester Genap Tahun Akademik 2017-2018**
 
-Tugas 3: Q-learning
+## Tugas 3: Q-learning
 
-Tim Dosen
+**Tim Dosen**
 
-April 20, 2018
+**April 20, 2018**
 
 ## Instruksi Umum
 
