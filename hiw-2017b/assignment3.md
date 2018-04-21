@@ -29,7 +29,7 @@ Agent berada di posisi Start (1,1) dan Goal di posisi (10,10)
 * Tuliskan laporan Anda dalam bentuk file PDF (*.pdf) atau Jupyter Notebook (*.ipynb);
 * Selalu cantumkan Nama, NIM, dan Kelas di dalam file jawaban Anda (laporan dan source code);
 * Kumpulkan hasil pengerjaan Anda (seluruh source code yang dibutuhkan) ke dalam GitHub Classroom Repository yang Anda dapatkan di [https://classroom.github.com/a/rKkztg2a](https://classroom.github.com/a/rKkztg2a) ;
-* Jawaban dikirimkan sebelum Jumat tanggal 27 April 2018 pukul 21.00 WIB. Penalty 10 poin per jam untuk keterlambatan;
+* Jawaban dikirimkan **sebelum Jumat tanggal 27 April 2018 pukul 21.00 WIB**. _Penalty 10 poin per jam untuk keterlambatan_;
 * **Segala bentuk kecurangan sangat dilarang.**
 
 ## Poin Penilaian
