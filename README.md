@@ -269,6 +269,7 @@ Support Vector Machine:
 * [Hierarchical Clustering 3: single-link vs. complete-link](https://www.youtube.com/watch?v=VMyXc3SiEqs)
 * [Proximity measures](https://www.dropbox.com/s/dibb3nymgg12pvd/06%20Proximity%20measures.jpg?dl=0)
 * [Slides Pak Anditya Arifianto](http://anditya.staff.telkomuniversity.ac.id/academic/ml/)
+* [Slides Pak Suyanto](https://www.dropbox.com/s/h0wfj93mhruwyj8/ML%2008-10%20k-Means%2C%20Aglomerative%2C%20and%20SOM%2003.pptx?dl=0)
 * [Slides GAB02 Kelompok E](https://github.com/csh3l3-2017b/0b-sharing-is-caring-gab02_e)
 * [Slides IF02 Kelompok E](https://github.com/csh3l3-2017b/0b-sharing-is-caring-if02_e)
 
@@ -286,7 +287,7 @@ Support Vector Machine:
 #### Referensi
 
 * [Slides Clustering](https://www.dropbox.com/s/f17ir1omu99n5io/06%20UnsupervisedLearning-Clustering.pdf?dl=0)
-* [Slides Pak Suyanto](https://www.dropbox.com/s/d1yx0ecgijh53l4/ML%2008-09%20k-Means%20and%20Aglomerative.pptx?dl=0)
+* [Slides Pak Suyanto](https://www.dropbox.com/s/h0wfj93mhruwyj8/ML%2008-10%20k-Means%2C%20Aglomerative%2C%20and%20SOM%2003.pptx?dl=0)
 * [Slides Pak Anditya Arifianto](http://anditya.staff.telkomuniversity.ac.id/academic/ml/)
 * [Slides GAB02 Kelompok F](https://github.com/csh3l3-2017b/0b-sharing-is-caring-gab02_f)
 * [Slides IF02 Kelompok F](https://github.com/csh3l3-2017b/0b-sharing-is-caring-if02_f)
@@ -297,7 +298,10 @@ Self-Organizing (Kohonen’s) Maps
 
 #### Referensi
 
-* TODO
+* [Self-Organizing Map](https://www.dropbox.com/s/2kleilsebg3rsay/10%20-%20Self-Organizing%20Map.pptx?dl=0)
+* [Slides Pak Suyanto](https://www.dropbox.com/s/h0wfj93mhruwyj8/ML%2008-10%20k-Means%2C%20Aglomerative%2C%20and%20SOM%2003.pptx?dl=0)
+* [Slides IF-39-02 Kelompok G](https://github.com/csh3l3-2017b/0b-sharing-is-caring-if02_g)
+* [Slides IF-41-GAB02 Kelompok G](https://github.com/csh3l3-2017b/0b-sharing-is-caring-gab02_g_som)
 
 ### Minggu ke-11
 
@@ -309,7 +313,9 @@ Reinforcement Learning:
 #### Referensi
 
 * [ReinforcementLearning.zip](https://www.dropbox.com/s/ydld66fs2bk5x1o/07%20ReinforcementLearning.zip?dl=0)
-* [Slides IF02 Kelompok G](https://github.com/csh3l3-2017b/0b-sharing-is-caring-if02_g)
+* [Reinforcement Learning slides Pak Anditya](https://www.dropbox.com/s/9o0qsc5bzuzxo7t/11%20-%20Reinforcement%20Learning.pptx?dl=0)
+* [Slides IF-39-02 Kelompok H](https://github.com/csh3l3-2017b/0b-sharing-is-caring-if02_h)
+* [Slides IF-41-GAB02 Kelompok H](https://github.com/csh3l3-2017b/0b-sharing-is-caring-gab02_h)
 
 ### Minggu ke-12
 
@@ -321,7 +327,12 @@ Reinforcement Learning:
 #### Referensi
 
 * [ReinforcementLearning.zip](https://www.dropbox.com/s/ydld66fs2bk5x1o/07%20ReinforcementLearning.zip?dl=0)
+* [Reinforcement Learning slides Pak Anditya](https://www.dropbox.com/s/9o0qsc5bzuzxo7t/11%20-%20Reinforcement%20Learning.pptx?dl=0)
 * [Slides IF02 Kelompok H](https://github.com/csh3l3-2017b/0b-sharing-is-caring-if02_h)
+* [Slides Q-learning](https://www.dropbox.com/s/mxd9yhc2acwymhc/Q-learning.ppt?dl=0)
+* [Q-learning by Sutton](https://www.dropbox.com/s/pmzd20x8gk3tm60/Q-learning%20Sutton.pdf?dl=0)
+* [Materi IF-39-02 Kelompok I](https://github.com/csh3l3-2017b/0b-sharing-is-caring-if02_i)
+* [Materi IF-41-GAB02 Kelompok I](https://github.com/csh3l3-2017b/0b-sharing-is-caring-team_i_reinforcement_learning)
 
 ### Minggu ke-13
 
@@ -334,6 +345,8 @@ Ensemble Methods (Metode-metode Gabungan):
 
 * [Slides Ensemble Methods](https://www.dropbox.com/s/p7j389eu9pbgkke/08%20ensemble_sdm10.ppt?dl=0)
 * [EnsembleMethods.zip](https://www.dropbox.com/s/ihb3jswikumzmj0/08%20EnsembleMethods.zip?dl=0)
+* [Materi IF-39-02 Kelompok J](https://github.com/csh3l3-2017b/0b-sharing-is-caring-if02_j)
+* [Materi IF-41-GAB02 Kelompok J](https://github.com/csh3l3-2017b/0b-sharing-is-caring-gab02_j)
 
 ### Minggu ke-14
 
@@ -345,6 +358,8 @@ Ensemble Methods (Metode-metode Gabungan):
 
 * [Slides Ensemble Methods](https://www.dropbox.com/s/p7j389eu9pbgkke/08%20ensemble_sdm10.ppt?dl=0)
 * [EnsembleMethods.zip](https://www.dropbox.com/s/ihb3jswikumzmj0/08%20EnsembleMethods.zip?dl=0)
+* [Materi IF-39-02 Kelompok K](https://github.com/csh3l3-2017b/0b-sharing-is-caring-if02_k)
+* [Materi IF-41-GAB02 Kelompok K](#notyet)
 
 ## Tugas-tugas
 
