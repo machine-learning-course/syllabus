@@ -347,6 +347,9 @@ Ensemble Methods (Metode-metode Gabungan):
 * [EnsembleMethods.zip](https://www.dropbox.com/s/ihb3jswikumzmj0/08%20EnsembleMethods.zip?dl=0)
 * [Materi IF-39-02 Kelompok J](https://github.com/csh3l3-2017b/0b-sharing-is-caring-if02_j)
 * [Materi IF-41-GAB02 Kelompok J](https://github.com/csh3l3-2017b/0b-sharing-is-caring-gab02_j)
+* [Bootstrap aggregating / bagging video - Udacity](https://www.youtube.com/watch?v=2Mg8QD0F1dQ)
+* [Bagging example video - Udacity](https://www.youtube.com/watch?v=sVriC_Ys2cw)
+* [Boosting video - Udacity](https://www.youtube.com/watch?v=GM3CDQfQ4sw)
 
 ### Minggu ke-14
 
@@ -360,6 +363,7 @@ Ensemble Methods (Metode-metode Gabungan):
 * [EnsembleMethods.zip](https://www.dropbox.com/s/ihb3jswikumzmj0/08%20EnsembleMethods.zip?dl=0)
 * [Materi IF-39-02 Kelompok K](https://github.com/csh3l3-2017b/0b-sharing-is-caring-if02_k)
 * [Materi IF-41-GAB02 Kelompok K](#notyet)
+* [Random Forest - Fun and Easy Machine Learning](https://www.youtube.com/watch?v=D_2LkhMJcfY)
 
 ## Tugas-tugas
 
