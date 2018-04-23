@@ -343,7 +343,7 @@ Ensemble Methods (Metode-metode Gabungan):
 
 #### Referensi
 
-* [Slides Ensemble Methods](https://www.dropbox.com/s/p7j389eu9pbgkke/08%20ensemble_sdm10.ppt?dl=0)
+* [Slides Ensemble Methods](https://www.dropbox.com/s/0o7y41axqjd5531/08%20ensemble_sdm10.pptx?dl=0)
 * [EnsembleMethods.zip](https://www.dropbox.com/s/ihb3jswikumzmj0/08%20EnsembleMethods.zip?dl=0)
 * [Materi IF-39-02 Kelompok J](https://github.com/csh3l3-2017b/0b-sharing-is-caring-if02_j)
 * [Materi IF-41-GAB02 Kelompok J](https://github.com/csh3l3-2017b/0b-sharing-is-caring-gab02_j)
@@ -361,7 +361,7 @@ Ensemble Methods (Metode-metode Gabungan):
 
 #### Referensi
 
-* [Slides Ensemble Methods](https://www.dropbox.com/s/p7j389eu9pbgkke/08%20ensemble_sdm10.ppt?dl=0)
+* [Slides Ensemble Methods](https://www.dropbox.com/s/0o7y41axqjd5531/08%20ensemble_sdm10.pptx?dl=0)
 * [EnsembleMethods.zip](https://www.dropbox.com/s/ihb3jswikumzmj0/08%20EnsembleMethods.zip?dl=0)
 * [Materi IF-39-02 Kelompok K](https://github.com/csh3l3-2017b/0b-sharing-is-caring-if02_k)
 * [Materi IF-41-GAB02 Kelompok K](#notyet)
