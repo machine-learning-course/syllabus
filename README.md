@@ -350,6 +350,8 @@ Ensemble Methods (Metode-metode Gabungan):
 * [Bootstrap aggregating / bagging video - Udacity](https://www.youtube.com/watch?v=2Mg8QD0F1dQ)
 * [Bagging example video - Udacity](https://www.youtube.com/watch?v=sVriC_Ys2cw)
 * [Boosting video - Udacity](https://www.youtube.com/watch?v=GM3CDQfQ4sw)
+* [Ensemble Methods in Machine Learning: What are They and Why Use Them?](https://towardsdatascience.com/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f)
+* [Ensemble Learning to Improve Machine Learning Results](https://blog.statsbot.co/ensemble-learning-d1dcd548e936)
 
 ### Minggu ke-14
 
