@@ -59,7 +59,7 @@
 ## Instruksi Khusus
 
 * Tugas bersifat _optional_, hanya bagi mahasiswa yang merasa nilai Kuis 4 kurang memuaskan.
-* Kumpulkan pranala hasil pengerjaan Anda melalui _assignment_ Google Classroom.
+* Kumpulkan pranala hasil pengerjaan Anda melalui form yang disediakan di _assignment_ Google Classroom.
 * Jawaban dikirimkan **sebelum Jumat tanggal 11 Mei 2018 pukul 21.00 WIB**.
 * Nilai yang diambil adalah nilai tertinggi dari Kuis 4 dan Tugas 4R.
 * **Segala bentuk kecurangan sangat dilarang.**
