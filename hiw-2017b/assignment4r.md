@@ -22,7 +22,7 @@
    
    * Kontribusi (minimal satu) dalam bentuk **menulis artikel baru** atau **menerjemahkan artikel Wikipedia English yang belum ada di Wikipedia Indonesia** atau **menyunting artikel yang ada**, yang berhubungan dengan _ensemble methods_. 
    
-       Artikel minimal 300 kata disertai gambar/ilustrasi **dari Wikipedia atau sumber yang berlisensi terbuka**.
+       Artikel minimal 300 kata; disertai gambar/ilustrasi **dari Wikipedia atau sumber yang berlisensi terbuka**.
 
 2. [CLO1, CLO2] (30%) Jawablah pertanyaan di [StackOverflow](https://stackoverflow.com/) / [Data Science StackExchange](https://datascience.stackexchange.com/) / [Cross Validated](https://stats.stackexchange.com/) dalam tema _ensemble methods_.
 
