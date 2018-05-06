@@ -423,6 +423,10 @@ Pembagian materi dan jadwal presentasi kelompok:
 
 * [Tugas 1.4 Support Vector Machine - Kelas IF-39-02 dan IF-41-GAB02](assignment-1-4-hiw)
 
+### Tugas 4R
+
+* [Tugas 4R](hiw-2017b/assignment4r)
+
 ## Pustaka
 
 ### Pustaka Utama
