@@ -12,7 +12,7 @@
 
    * Buat akun (bila belum punya)
    
-   * Isi [halaman pengguna](https://id.wikipedia.org/wiki/Wikipedia:Halaman_pengguna) Anda
+   * Isi [halaman pengguna](https://id.wikipedia.org/wiki/Wikipedia:Halaman_pengguna) Anda dengan jelas dan lengkap
    
    * Baca [Panduan artikel pertama Anda](https://id.wikipedia.org/wiki/Wikipedia:Artikel_pertama_Anda) dengan baik.
    
