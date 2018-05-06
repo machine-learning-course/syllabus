@@ -11,9 +11,18 @@
 1. [CLO1, CLO2] (40%) Berikan kontribusi ke [Wikipedia Indonesia](http://id.wikipedia.org/) dalam tema _ensemble methods_.
 
    a. Buat akun (bila belum punya)
+   
    b. Isi [halaman pengguna](https://id.wikipedia.org/wiki/Wikipedia:Halaman_pengguna) Anda
-   c. Baca [Panduan artikel pertama Anda](https://id.wikipedia.org/wiki/Wikipedia:Artikel_pertama_Anda) dengan baik. Kontribusi Anda **wajib** mematuhi pedoman tersebut. **Bila kontribusi Anda ditarik oleh moderator Wikipedia atau dianggap melanggar aturan, nilai Anda 0**.
-   d. Kontribusi (minimal satu) dalam bentuk **menulis artikel baru** atau **menerjemahkan artikel Wikipedia English yang belum ada di Wikipedia Indonesia** atau **menyunting artikel yang ada**, yang berhubungan dengan _ensemble methods_. Artikel minimal 300 kata disertai gambar/ilustrasi **dari Wikipedia atau sumber yang berlisensi terbuka**.
+   
+   c. Baca [Panduan artikel pertama Anda](https://id.wikipedia.org/wiki/Wikipedia:Artikel_pertama_Anda) dengan baik.
+   
+      Kontribusi Anda **wajib** mematuhi pedoman tersebut. 
+      
+      **Bila kontribusi Anda ditarik oleh moderator Wikipedia atau dianggap melanggar aturan, nilai Anda 0**.
+   
+   d. Kontribusi (minimal satu) dalam bentuk **menulis artikel baru** atau **menerjemahkan artikel Wikipedia English yang belum ada di Wikipedia Indonesia** atau **menyunting artikel yang ada**, yang berhubungan dengan _ensemble methods_. 
+   
+      Artikel minimal 300 kata disertai gambar/ilustrasi **dari Wikipedia atau sumber yang berlisensi terbuka**.
 
 2. [CLO1, CLO2] (30%) Jawablah pertanyaan di [StackOverflow](https://stackoverflow.com/) / [Data Science StackExchange](https://datascience.stackexchange.com/) / [Cross Validated](https://stats.stackexchange.com/) dalam tema _ensemble methods_.
 
@@ -21,9 +30,15 @@
 
    b. Isi profil pengguna Anda dengan lengkap
 
-   c. Baca panduan [How do I write a good answer?](https://stackoverflow.com/help/how-to-answer). Kontribusi Anda **wajib** mematuhi pedoman tersebut. **Bila kontribusi Anda ditarik oleh moderator atau dianggap melanggar aturan atau total voting minus, nilai Anda 0**.
+   c. Baca panduan [How do I write a good answer?](https://stackoverflow.com/help/how-to-answer).
+
+      Kontribusi Anda **wajib** mematuhi pedoman tersebut.
+
+      **Bila kontribusi Anda ditarik oleh moderator atau dianggap melanggar aturan atau total voting minus, nilai Anda 0**.
    
-   d. Jawab pertanyaan yang ada (minimal satu), yang berhubungan dengan _ensemble methods_. Jawaban minimal 100 kata disertai gambar/ilustrasi.
+   d. Jawab pertanyaan yang ada (minimal satu), yang berhubungan dengan _ensemble methods_.
+   
+      Jawaban minimal 100 kata disertai gambar/ilustrasi.
 
 3. [CLO1, CLO2] (30%) Jawablah pertanyaan di [Quora](https://www.quora.com/) dalam tema _ensemble methods_.
 
@@ -31,9 +46,15 @@
    
    b. Isi profil pengguna Anda dengan lengkap
    
-   c. Baca panduan [What are the main guidelines for writing answers on Quora?](https://help.quora.com/hc/en-us/articles/115004211543-What-are-the-main-guidelines-for-writing-answers-on-Quora-). Kontribusi Anda **wajib** mematuhi pedoman tersebut. **Bila kontribusi Anda ditarik oleh moderator atau dianggap melanggar aturan atau total voting minus, nilai Anda 0**.
+   c. Baca panduan [What are the main guidelines for writing answers on Quora?](https://help.quora.com/hc/en-us/articles/115004211543-What-are-the-main-guidelines-for-writing-answers-on-Quora-).
    
-   d. Jawab pertanyaan yang ada (minimal satu), yang berhubungan dengan _ensemble methods_. Jawaban minimal 100 kata disertai gambar/ilustrasi.
+      Kontribusi Anda **wajib** mematuhi pedoman tersebut.
+      
+      **Bila kontribusi Anda ditarik oleh moderator atau dianggap melanggar aturan atau total voting minus, nilai Anda 0**.
+   
+   d. Jawab pertanyaan yang ada (minimal satu), yang berhubungan dengan _ensemble methods_.
+   
+      Jawaban minimal 100 kata disertai gambar/ilustrasi.
 
 ## Instruksi Khusus
 
