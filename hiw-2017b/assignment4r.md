@@ -10,7 +10,7 @@
 
 1. [CLO1, CLO2] (40%) Berikan kontribusi ke [Wikipedia Indonesia](http://id.wikipedia.org/) dalam tema _ensemble methods_.
 
-   * Buat akun (bila belum punya)
+   * [Buat akun (bila belum punya)](https://id.wikipedia.org/wiki/Wikipedia:Berkontribusi/Mulai)
    
    * Isi [halaman pengguna](https://id.wikipedia.org/wiki/Wikipedia:Halaman_pengguna) Anda dengan jelas dan lengkap
    
