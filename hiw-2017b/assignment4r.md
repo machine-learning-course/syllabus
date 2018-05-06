@@ -18,15 +18,21 @@
 2. [CLO1, CLO2] (30%) Jawablah pertanyaan di [StackOverflow](https://stackoverflow.com/) / [Data Science StackExchange](https://datascience.stackexchange.com/) / [Cross Validated](https://stats.stackexchange.com/) dalam tema _ensemble methods_.
 
    a. Buat akun (bila belum punya)
+
    b. Isi profil pengguna Anda dengan lengkap
+
    c. Baca panduan [How do I write a good answer?](https://stackoverflow.com/help/how-to-answer). Kontribusi Anda **wajib** mematuhi pedoman tersebut. **Bila kontribusi Anda ditarik oleh moderator atau dianggap melanggar aturan atau total voting minus, nilai Anda 0**.
+   
    d. Jawab pertanyaan yang ada (minimal satu), yang berhubungan dengan _ensemble methods_. Jawaban minimal 100 kata disertai gambar/ilustrasi.
 
 3. [CLO1, CLO2] (30%) Jawablah pertanyaan di [Quora](https://www.quora.com/) dalam tema _ensemble methods_.
 
    a. Buat akun (bila belum punya)
+   
    b. Isi profil pengguna Anda dengan lengkap
+   
    c. Baca panduan [What are the main guidelines for writing answers on Quora?](https://help.quora.com/hc/en-us/articles/115004211543-What-are-the-main-guidelines-for-writing-answers-on-Quora-). Kontribusi Anda **wajib** mematuhi pedoman tersebut. **Bila kontribusi Anda ditarik oleh moderator atau dianggap melanggar aturan atau total voting minus, nilai Anda 0**.
+   
    d. Jawab pertanyaan yang ada (minimal satu), yang berhubungan dengan _ensemble methods_. Jawaban minimal 100 kata disertai gambar/ilustrasi.
 
 ## Instruksi Khusus
