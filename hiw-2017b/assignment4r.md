@@ -1,8 +1,6 @@
-# Pembelajaran Mesin
+## Tugas 4R: Ensemble Methods (Remedial) - Pembelajaran Mesin
 
 **Semester Genap Tahun Akademik 2017-2018**
-
-## Tugas 4R: Ensemble Methods (Remedial)
 
 **Hendy Irawan**
 
