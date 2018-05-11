@@ -38,7 +38,7 @@
    
       Jawaban minimal 100 kata disertai gambar/ilustrasi.
 
-3. [CLO1, CLO2] (30%) Jawablah pertanyaan di [Quora](https://www.quora.com/) dalam tema _ensemble methods_.
+3. [CLO1, CLO2] (30%) Jawablah pertanyaan di [Quora English](http://www.quora.com/?prevent_redirect=1) (**bukan** Quora Indonesia) dalam tema _ensemble methods_.
 
    * Buat akun (bila belum punya)
    
