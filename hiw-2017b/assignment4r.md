@@ -22,6 +22,8 @@
    
        Artikel minimal 300 kata; disertai gambar/ilustrasi **dari Wikipedia atau sumber yang berlisensi terbuka**.
 
+   * Bila Anda mengutip materi orang lain, **wajib mencantumkan sumber sesuai ketentuan Wikipedia** (baca kembali [Panduan artikel pertama Anda](https://id.wikipedia.org/wiki/Wikipedia:Artikel_pertama_Anda) bila belum jelas).
+
 2. [CLO1, CLO2] (30%) Jawablah pertanyaan di [StackOverflow](https://stackoverflow.com/) / [Data Science StackExchange](https://datascience.stackexchange.com/) / [Cross Validated](https://stats.stackexchange.com/) dalam tema _ensemble methods_.
 
    * Buat akun (bila belum punya)
@@ -38,6 +40,8 @@
    
       Jawaban minimal 100 kata disertai gambar/ilustrasi.
 
+   * Bila Anda mengutip materi orang lain, **wajib mencantumkan sumbernya**.
+
 3. [CLO1, CLO2] (30%) Jawablah pertanyaan di [Quora English](http://www.quora.com/?prevent_redirect=1) (**bukan** Quora Indonesia) dalam tema _ensemble methods_.
 
    * Buat akun (bila belum punya)
@@ -53,6 +57,8 @@
    * Jawab pertanyaan yang ada (minimal satu), yang berhubungan dengan _ensemble methods_.
    
       Jawaban minimal 100 kata disertai gambar/ilustrasi.
+
+   * Bila Anda mengutip materi orang lain, **wajib mencantumkan sumbernya**.
 
 ## Instruksi Khusus
 
